@@ -1,0 +1,5 @@
+package subname
+
+func name() string{
+	return "i am aswin"
+}
